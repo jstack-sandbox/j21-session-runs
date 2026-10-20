@@ -1,0 +1,11 @@
+{
+  "owners": {
+    "owner": "jstack-sandbox-owner"
+  },
+  "sessions": {
+    "model": "stand-in-legacy-model",
+    "models": {
+      "journeys": "sonnet"
+    }
+  }
+}
